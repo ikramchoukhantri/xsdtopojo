@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jaxb:bindings version="3.0" xmlns:jaxb="https://jakarta.ee/xml/ns/jaxb">
+  <!--
+
+Ce fichier a été généré par Eclipse Implementation of JAXB, v3.0.0 
+Voir https://eclipse-ee4j.github.io/jaxb-ri 
+Toute modification apportée à ce fichier sera perdue lors de la recompilation du schéma source. 
+Généré le : 2024.08.27 à 03:47:59 PM WEST 
+
+  -->
+  <jaxb:bindings scd="x-schema::">
+    <jaxb:schemaBindings map="false">
+      <jaxb:package name="io.codejournal.maven.xsd2java"/>
+    </jaxb:schemaBindings>
+    <jaxb:bindings scd="message">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Message"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Block1Type">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Block1Type"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Block2Type">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Block2Type"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Block3Type">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Block3Type"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Block4">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Block4"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~TagType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.TagType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~NumberAddressType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.NumberAddressType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~IdentifierCodeType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.IdentifierCodeType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~CodeType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.CodeType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~PartyIdentifierType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.PartyIdentifierType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field13CType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field13CType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field23EType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field23EType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field32AType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field32AType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field33BType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field33BType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field50AType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field50AType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field50FType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field50FType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field50KType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field50KType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field51AType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field51AType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field52AType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field52AType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field52DType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field52DType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field53AType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field53AType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field53BType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field53BType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field53DType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field53DType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field54AType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field54AType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field54BType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field54BType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field54DType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field54DType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field55AType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field55AType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field55BType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field55BType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field55DType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field55DType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field56AType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field56AType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field56CType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field56CType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field56DType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field56DType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field57AType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field57AType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field57CType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field57CType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field57BType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field57BType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field57DType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field57DType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field59Type">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field59Type"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field59AType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field59AType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field59FType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field59FType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field70Type">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field70Type"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field71FType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field71FType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field71GType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field71GType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field72Type">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field72Type"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~Field77BType">
+      <jaxb:class ref="io.codejournal.maven.xsd2java.Field77BType"/>
+    </jaxb:bindings>
+  </jaxb:bindings>
+</jaxb:bindings>
+
